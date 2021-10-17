@@ -1,0 +1,10 @@
+.page-header{
+  padding: 15px;
+  background: #e2e2e2;
+}
+
+.loader{
+  text-align: center;
+  width: 100%;
+  position: absolute;
+}
