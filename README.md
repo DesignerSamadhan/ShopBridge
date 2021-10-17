@@ -16,7 +16,7 @@ Inventory Management using React and Redux with JSON server as backend.
 Prerequisite : 
 1. Download and install Nodejs
 2. Install json server globally with command :  npm install -g json-server
-3. Go to project repository(shopbridge) and run json server using command :  npx json-server --watch -p 3333 public\server.json
+3. Go to project repository(shopbridge) and run json server using command :  npx json-server --watch -p 3333 server.json
 4. Open [http://localhost:3333/inventoryList] (http://localhost:3333) to view it in the browser. To check server.json data.
 5. Go to project repository(shopbridge) and run command : yarn install or npm install 
 6. Go to project repository(shopbridge) and run command : yarn start or npm start
